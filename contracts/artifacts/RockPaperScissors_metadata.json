@@ -488,7 +488,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"constracts/RockPaperScissors.sol": "RockPaperScissors"
+			"contracts/RockPaperScissors.sol": "RockPaperScissors"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -542,7 +542,7 @@
 				"dweb:/ipfs/QmNgFkoXNWoUbAyw71rr1sKQ95Rj2GfvYiWg79xEYDn2NY"
 			]
 		},
-		"constracts/RockPaperScissors.sol": {
+		"contracts/RockPaperScissors.sol": {
 			"keccak256": "0x4dbc9d94d43984c116cafc21c595491c9bc68235519452dcb1b8ec332eebf9ee",
 			"license": "Unlicense",
 			"urls": [

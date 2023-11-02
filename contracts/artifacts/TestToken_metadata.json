@@ -422,7 +422,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"constracts/TestERC20.sol": "TestToken"
+			"contracts/TestERC20.sol": "TestToken"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -476,7 +476,7 @@
 				"dweb:/ipfs/QmNgFkoXNWoUbAyw71rr1sKQ95Rj2GfvYiWg79xEYDn2NY"
 			]
 		},
-		"constracts/TestERC20.sol": {
+		"contracts/TestERC20.sol": {
 			"keccak256": "0xf93d12ddf71d350156407080bc60cdbfc5ee09cfaff9f4e4d470f3c3cdd01e8f",
 			"license": "Unlicense",
 			"urls": [
